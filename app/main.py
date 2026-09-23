@@ -13,7 +13,7 @@ def main():
 
     print(f"\nYou said: {text}")
 
-if __name__ == "__main__": # 
+if __name__ == "__main__": 
     main()
 
 
