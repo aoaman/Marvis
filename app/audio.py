@@ -6,7 +6,7 @@ AUDIO_FILE = "/tmp/marvis_input.wav"
 def record_audio(duration=5):
     """Record audio from the USB micrphone"""
 
-    print("Listening...")
+    print("Listening....")
 
     subprocess.run(
         [
